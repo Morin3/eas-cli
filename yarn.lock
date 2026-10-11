@@ -6801,16 +6801,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node-forge@npm:1.3.1":
-  version: 1.3.1
-  resolution: "@types/node-forge@npm:1.3.1"
-  dependencies:
-    "@types/node": "npm:*"
-  checksum: 10c0/6722c87e60b9c83767b440db912d3673f4e9ef9863ded9c191fb81c987c2fa8b0115bfcc064dd04e8bce069a5a8c654ecf753ded6e0abcd307d641667aca0f56
-  languageName: node
-  linkType: hard
-
-"@types/node-forge@npm:^1.3.11":
+"@types/node-forge@npm:1.3.14, @types/node-forge@npm:^1.3.11":
   version: 1.3.14
   resolution: "@types/node-forge@npm:1.3.14"
   dependencies:
@@ -10213,7 +10204,7 @@ __metadata:
     "@types/invariant": "npm:^2.2.37"
     "@types/mime": "npm:3.0.1"
     "@types/node-fetch": "npm:2.6.12"
-    "@types/node-forge": "npm:1.3.1"
+    "@types/node-forge": "npm:1.3.14"
     "@types/pngjs": "npm:6.0.4"
     "@types/promise-retry": "npm:1.1.3"
     "@types/prompts": "npm:2.4.2"
@@ -10265,7 +10256,7 @@ __metadata:
     nanoid: "npm:3.3.8"
     nock: "npm:13.4.0"
     node-fetch: "npm:2.6.7"
-    node-forge: "npm:1.3.1"
+    node-forge: "npm:1.4.0"
     node-stream-zip: "npm:1.15.0"
     nullthrows: "npm:1.1.1"
     ora: "npm:5.1.0"
@@ -16264,10 +16255,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"node-forge@npm:1.3.1, node-forge@npm:^1.3.1":
-  version: 1.3.1
-  resolution: "node-forge@npm:1.3.1"
-  checksum: 10c0/e882819b251a4321f9fc1d67c85d1501d3004b4ee889af822fd07f64de3d1a8e272ff00b689570af0465d65d6bf5074df9c76e900e0aff23e60b847f2a46fbe8
+"node-forge@npm:1.4.0":
+  version: 1.4.0
+  resolution: "node-forge@npm:1.4.0"
+  checksum: 10c0/67330a5f1f95257a4c8a93b7d555abe87b5f15e350123aa396c97a21a8ca94f9c6549008eb2c73668a91e0d7e3a905785acbd8f8bd0751c29401292011f8f8e1
   languageName: node
   linkType: hard
 
@@ -16275,6 +16266,13 @@ __metadata:
   version: 1.2.1
   resolution: "node-forge@npm:1.2.1"
   checksum: 10c0/0563bef5c6abfd031018ebd9cae41432811faef0b25ca7651489fb5f946250c3f8c433f42e76e9fd98f0d7617c12b700f8cbea134a1d284df84f8104c79127c0
+  languageName: node
+  linkType: hard
+
+"node-forge@npm:^1.3.1":
+  version: 1.3.1
+  resolution: "node-forge@npm:1.3.1"
+  checksum: 10c0/e882819b251a4321f9fc1d67c85d1501d3004b4ee889af822fd07f64de3d1a8e272ff00b689570af0465d65d6bf5074df9c76e900e0aff23e60b847f2a46fbe8
   languageName: node
   linkType: hard
 
